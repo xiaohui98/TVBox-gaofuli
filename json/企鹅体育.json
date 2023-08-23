@@ -14,6 +14,7 @@
         "英文原声":"@directory/game/English",
         "台球":"@directory/game/Billiards",
         "棒球/橄榄球/冰球":"@directory/game/MLB",
+        "综合":"@directory/game/ZH",
         "NBA":"@directory/game/NBA",
         "CBA":"@directory/game/CBA",
         "颜值":"@directory/game/YZ",
