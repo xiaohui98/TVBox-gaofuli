@@ -1,8 +1,8 @@
 var rule = {
     title:'新香蕉超清资源',
-    host:'https://52kkpp.vip/cq',
+    host:'https://52kkpp.vip',
 	//searchUrl:'/cn/search/**',
-    url:'/fyclass-fypage.html',
+    url:'/cq/fyclass-fypage.html',
     headers:{
         'User-Agent':'MOBILE_UA'
     },
