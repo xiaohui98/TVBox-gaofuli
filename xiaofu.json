@@ -39,7 +39,9 @@
     {"key":"csp_xBPQ_新香蕉AV解说","name":"新香蕉AV解说","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/新香蕉AV解说.json"},
 
     {"key":"drpy_js_新香蕉超清资源","name":"新香蕉超清资源|js","type":3,"api":"https://ghproxy.com/raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext":"./js/新香蕉超清资源.js"},
-       
+   
+    {"key":"drpy_js_missav","name":"Missav","type":3,"api":"https://ghproxy.com/raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext":"https://github.com/hjdhnx/dr_py/blob/main/txt/js/18/Missav.js"},
+          
     {"key":"drpy_js_kbjfree","name":"kbjfree","type":3,"api":"./lib/drpy2.min.js","ext":"./js/kbjfree.js"},
     {"key":"drpy_js_sexkbj","name":"sexkbj","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/xiaohui98/TVBox-gaofuli/master/lib/drpy2.min.js","ext":"https://ghproxy.com/https://raw.githubusercontent.com/xiaohui98/TVBox-gaofuli/master/js/sexkbj.js"},
     {"key":"drpy_js_sexkbj-tv","name":"sexkbj-tv","type":3,"api":"./lib/drpy2.min.js","ext":"./js/sexkbj-tv.js"},
