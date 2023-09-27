@@ -14,6 +14,10 @@
       "server": "https://alist.eduedu.eu.org/"
     },
     {
+      "name": "fw",
+      "server": "http://69.161.221.160:5244"
+    },
+    {
       "name": "罗汉果",
       "server": "https://lala-ofbip.run.goorm.site/"
     },
