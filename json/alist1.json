@@ -14,6 +14,10 @@
       "server": "https://alist.eduedu.eu.org/"
     },
     {
+      "name": "ASMR",
+      "server": "https://www.asmr.pw/"
+    },
+    {
       "name": "fw",
       "server": "http://69.161.221.160:5244"
     },
