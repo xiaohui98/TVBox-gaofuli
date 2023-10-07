@@ -54,11 +54,11 @@
 //{"key": "直播转点播","name": "🎦直播转换","type": 3,"api": "https://gitea.com/chen154672/tvbox/raw/branch/master/JS/js/直播转点播.js","ext": "https://gitea.com/chen154672/tvbox/raw/branch/master/JS/js/直播.js&&&https://gitea.com/chen154672/tvbox/raw/branch/master/png/T4.webp"}, 
 {"key": "直播","name": "🅿电视┃直播", "type": 4,"playerType":1, "api": "http://120.53.102.254/live2?url=https://agit.ai/fantaiying/fty/raw/branch/master/live.txt"},
 
-{"key":"csp_XPath_企鹅体育","name":"🐧企鹅体育","type":3,"api":"csp_XPath","searchable":0,"quickSearch":0,"filterable":0,"ext":"./json/企鹅体育.json"},
-{"key":"drpy_js_哔哩直播","name":"直播|哔哩[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/哔哩直播.js"},
-{"key":"drpy_js_斗鱼直播","name":"直播|斗鱼[js]","type":3,"api":"./lib/drpy2.min.js","playerType": 1,"ext":"./js/斗鱼直播.js"},
-{"key":"drpy_js_虎牙直播","name":"直播|虎牙[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/虎牙直播.js"},
-{"key":"drpy_js_JustLive","name":"直播|JustLive[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/JustLive.js"},
+{"key":"csp_XPath_企鹅体育","name":"🐧企鹅体育","type":3,"api":"csp_XPath","searchable":0,"quickSearch":0,"filterable":0,"ext":"./json/企鹅体育.json","style":{"type": "rect","ratio": 1.597}},
+{"key":"drpy_js_哔哩直播","name":"直播|哔哩[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/哔哩直播.js","style":{"type": "rect","ratio": 1.755}},
+{"key":"drpy_js_斗鱼直播","name":"直播|斗鱼[js]","type":3,"api":"./lib/drpy2.min.js","playerType": 1,"ext":"./js/斗鱼直播.js","style":{"type": "rect","ratio": 1.755}},
+{"key":"drpy_js_虎牙直播","name":"直播|虎牙[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/虎牙直播.js","style":{"type": "rect","ratio": 1.755}},
+{"key":"drpy_js_JustLive","name":"直播|JustLive[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/JustLive.js","style":{"type": "rect","ratio": 1.755}},
 
 {"key":"csp_Nbys","name":"👑泥巴(墙外)","type":3,"api":"csp_NiNi","searchable":1,"quickSearch":1,"filterable":1},
 //{"key":"csp_Miaobo","name":"🔥秒播┃2K","type":3,"api":"csp_Miaobo","searchable":1,"quickSearch":1,"filterable":1},
