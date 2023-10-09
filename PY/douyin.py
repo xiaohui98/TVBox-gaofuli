@@ -57,7 +57,7 @@ class Spider(Spider):
 		return result
 	def categoryContent(self,tid,pg,filter,extend):
 		result = {}
-		url = 'http://yj1211.work:8013/api/live/getRecommendByPlatform?platform={0}&size=20&page={1}'.format(tid, pg)
+		url = 'http://yj1211.work:8013/api/live/getRecommendByPlatform?platform=douyin&size=20&page={1}'.format(tid, pg)
 		rsp = self.fetch(url)
 		content = rsp.text
 		jo = json.loads(content)
