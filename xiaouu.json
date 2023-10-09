@@ -58,6 +58,7 @@
 {"key":"drpy_js_哔哩直播","name":"直播|哔哩[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/哔哩直播.js","style":{"type": "rect","ratio": 1.755}},
 {"key":"drpy_js_斗鱼直播","name":"直播|斗鱼[js]","type":3,"api":"./lib/drpy2.min.js","playerType": 1,"ext":"./js/斗鱼直播.js","style":{"type": "rect","ratio": 1.755}},
 {"key":"drpy_js_虎牙直播","name":"直播|虎牙[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/虎牙直播.js","style":{"type": "rect","ratio": 1.755}},
+{"key":"py_douyin","name":"直播|抖音[py]","type":3,"api":"py_douyin","style":{ "type":"rect", "ratio":1.33 },"ext":"https://qu.ax/YspE.py"},	
 {"key":"drpy_js_JustLive","name":"直播|JustLive[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/JustLive.js","style":{"type": "rect","ratio": 1.755}},
 
 {"key":"csp_Nbys","name":"👑泥巴(墙外)","type":3,"api":"csp_NiNi","searchable":1,"quickSearch":1,"filterable":1},
