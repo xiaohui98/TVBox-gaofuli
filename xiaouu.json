@@ -199,6 +199,13 @@
 //{      "key": "csp_Hlsp",      "name": "💣黑料┃直连",      "type": 3,      "api": "csp_Hlsp",      "m3u8ads": "hd.youyhn.com",      "searchable": 1,      "quickSearch": 1,      "filterable": 1,      "ext": "./Hlsp/黑料.json"    },    
 //{      "key": "csp_SP360",      "name": "📺360┃解析",      "type": 3,      "api": "csp_SP360",      "m3u8ads": "hd.youyhn.com",      "searchable": 1,      "quickSearch": 1,      "filterable": 1,      "changeable": 0    },   
 
+{"key":"drpy_js_348电影网","name":"348电影网|js","type":3,"api":"https://ghproxy.com/raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext":"https://ghproxy.com/raw.githubusercontent.com/hjdhnx/dr_py/main/js/348%E7%94%B5%E5%BD%B1%E7%BD%91.js"},
+
+
+
+
+
+	
 {"key":"csp_Dm84","name":"动漫巴士┃SP","type":3,"api":"csp_Dm84","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Ying","name":"樱花动漫┃SP","type":3,"api":"csp_Ying","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Ysj","name":"异界动漫┃SP","type":3,"api":"csp_Ysj","searchable":1,"quickSearch":1,"filterable":1},
