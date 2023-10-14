@@ -38,16 +38,16 @@
 {"key":"PanSearch","name":"🙀盘Se┃搜索","type":3,"api":"csp_PanSearch","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://127.0.0.1:9978/file/tvfan/token.txt"},
 {"key":"csp_Alist2","name":"小丫搜索","type":3,"api":"https://ftyyy.tk/JS/lib/alist.min.js","searchable":1,"quickSearch":0,"filterable":0,"ext":"http://101.34.67.237/txt/json/alist.json"},
  
-{"key":"csp_WoGG","name":"👽玩偶哥哥┃4K","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext": "./json/token.txt$$$http://tvfan.xxooo.cf/"},
+{"key":"csp_WoGG","name":"👽玩偶哥哥┃4K","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext": "./json/token.txt+4k|auto|fhd"},
 //{"key":"FanYY","name":"💦剥饭","type":3,"api":"csp_FanYY","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext": "./json/token.txt"},
-{"key":"七夜","name":"😾七夜┃4K","type":3,"api":"csp_Dovx","searchable":1,"filterable":0,"changeable":0,"ext":"http://127.0.0.1:9978/file/tvfan/token.txt"},
+{"key":"七夜","name":"😾七夜┃4K","type":3,"api":"csp_Dovx","searchable":1,"filterable":0,"changeable":0,"ext":"./json/token.txt+4k|auto|fhd"},
 
 {"key":"csp_xBPQ_短视频","name":"短视频〔xBPQ〕","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"./xBPQ/短视频.json"},
 {"key":"csp_Yj1211","name":"网红直播┃SP","type": 3,"api": "csp_Yj1211","searchable": 1,"quickSearch": 1,"filterable": 1},
 //{"key":"Bili","name":"哔哩合集","type":3,"api":"csp_Bili","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/chuqiuyu.json"},
-{"key":"js_B站精简","name":"🅱️哔哩合集大全","type":3,"api":"https://jihulab.com/duomv/duo/-/raw/main/js/drpymin.js","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://agit.ai/yjl/dcck/raw/branch/master/js/B%e7%ab%99%e7%b2%be%e7%ae%80.js"},  
-{"key":"csp_Bili","name":"🅱哔哔┃合集","type": 3,"api": "csp_Bili","searchable":1,"quickSearch": 0,"filterable": 0,"ext":"http://饭太硬.top/x/json/bilibili.json"},
-{"key":"csp_Biliych","name":"🅱哔哔┃演唱会","type": 3,"api": "csp_Bili","searchable":1,"quickSearch": 0,"filterable": 1,"ext":"http://饭太硬.top/x/json/biliych.json"},
+//{"key":"js_B站精简","name":"🅱️哔哩合集大全","type":3,"api":"https://jihulab.com/duomv/duo/-/raw/main/js/drpymin.js","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://agit.ai/yjl/dcck/raw/branch/master/js/B%e7%ab%99%e7%b2%be%e7%ae%80.js"},  
+{"key":"csp_Bili","name":"🅱哔哔┃合集","type": 3,"api": "csp_Bili","searchable":1,"quickSearch": 0,"changeable": 0,"style":{"type": "rect","ratio": 1.597},"ext":"https://agit.ai/fantaiying/fty/raw/branch/master/json/bilibili.json"},
+{"key":"csp_Biliych","name":"🅱哔哔┃演唱会","type": 3,"api": "csp_Bili","searchable":1,"quickSearch": 0,"changeable": 0,"style":{"type": "rect","ratio": 1.597},"ext":"https://agit.ai/fantaiying/fty/raw/branch/master/json/biliych.json"},
 {"key":"Alist","name":"Alist网盘","type":3,"api":"csp_AList","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/alist.json"},
 	
 {"key": "直播转点播","name":"🐼️┃电视┃直播","type": 3,"api":"http://我不是.肥猫.love:63/JS/直播转点播2.js","ext":"http://我不是.肥猫.love:63/lives/直播仓.json"},
@@ -157,6 +157,15 @@
                 "type": "rect",
                 "ratio": 3.8
             }
+        },
+{
+            "key": "一起看 ",
+            "name": "🎉一起┃App",
+            "type": 3,
+            "api": "csp_YQKan",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1
         },
 
 	
