@@ -1,10 +1,6 @@
 var rule = {
     title:'afreecatv直播',
-    host:'',
-    homeUrl:'',
-    url:'',
-    class_name:'',
-    class_url:'',
+    host:'https://www.afreecatv.com',
     headers:{
         'User-Agent':'MOBILE_UA',
     },
