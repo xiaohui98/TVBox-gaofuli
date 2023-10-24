@@ -15,7 +15,11 @@
     },
     {
       "name": "小雅",
-      "server": "http://alist.xiaoya.pro"
+      "server": "http://xiaoya.nebula-nas.space:5678/"
+    },
+    {
+      "name": "杜比",
+      "server": "https://dubi.tk"
     },
     {
       "name": "觸光",
