@@ -36,7 +36,7 @@
 {"key":"找資源","name":"🐺找资源┃搜索","type":3,"api":"csp_Zhaozy","ext":"./json/token.txt"},
 {"key":"TuGou","name":"😿土狗┃搜索","type":3,"api":"csp_TuGou","searchable":1,"quickSearch":1,"changeable":0,"ext":"./json/token.txt"},
 {"key":"PanSearch","name":"🙀盘Se┃搜索","type":3,"api":"csp_PanSearch","searchable":1,"quickSearch":1,"filterable":0,"ext":"./json/token.txt"},
-{"key":"csp_Alist2","name":"小丫搜索","type":3,"api":"https://ftyyy.tk/JS/lib/alist.min.js","searchable":1,"quickSearch":0,"filterable":0,"ext":"http://101.34.67.237/txt/json/alist.json"},
+{"key":"csp_Alist2","name":"小丫搜索","type":3,"api":"https://ghproxy.com/raw.githubusercontent.com/hjdhnx/dr_py/main/libs/alist.min.js","searchable":1,"quickSearch":0,"filterable":0,"ext":"./json/alist.json"},
  
 {"key":"csp_WoGG","name":"👽玩偶哥哥┃4K","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext": "./json/token.txt+4k|auto|fhd"},
 //{"key":"FanYY","name":"💦剥饭","type":3,"api":"csp_FanYY","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext": "./json/token.txt"},
