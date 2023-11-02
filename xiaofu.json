@@ -24,7 +24,7 @@
             "style":{ "type":"rect", "ratio":1.33 },
             "filterable": 0,
             "changeable": 0,
-            "ext": "./json/alist1.json"
+            "ext": "http://127.0.0.1:9978/file/tvbox/alist1.txt"
     },
     {"key":"csp_xBPQ_新香蕉中文字幕","name":"新香蕉中文字幕","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/新香蕉中文字幕.json"},
 
