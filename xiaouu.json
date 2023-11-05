@@ -49,6 +49,7 @@
 {"key":"mybili","name":"🅱哔哔┃猫","type": 3,"api": "./js/mybili_open.js","style":{"type": "rect","ratio": 1.597}},
 {"key":"csp_Bili","name":"🅱哔哔┃合集","type": 3,"api": "csp_Bili","searchable":1,"quickSearch": 0,"changeable": 0,"style":{"type": "rect","ratio": 1.597},"ext":"https://agit.ai/fantaiying/fty/raw/branch/master/json/bilibili.json"},
 {"key":"csp_Biliych","name":"🅱哔哔┃演唱会","type": 3,"api": "csp_Bili","searchable":1,"quickSearch": 0,"changeable": 0,"style":{"type": "rect","ratio": 1.597},"ext":"https://agit.ai/fantaiying/fty/raw/branch/master/json/biliych.json"},
+{"key": "Bili8k","name": "🅱哔哩8k","type": 3,"api": "csp_Bili","style": {"type": "rect","ratio": 1.597},"searchable": 1,"quickSearch": 0,"changeable": 0,"ext": "https://agit.ai/xxm247/Rfx/raw/branch/master/Bilibili/哔哩8K.json"},
 {"key":"Alist","name":"Alist网盘","type":3,"api":"csp_AList","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/alist.json"},
 	
 {"key": "直播转点播","name":"🐼️┃电视┃直播","type": 3,"api":"http://我不是.肥猫.love:63/JS/直播转点播2.js","ext":"http://我不是.肥猫.love:63/lives/直播仓.json"},
