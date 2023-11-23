@@ -29,21 +29,21 @@
 //{"key":"drpy_js_豆瓣","name":"搜索 | 豆瓣[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/drpy.js"},
 {"key": "豆豆","name": "微信公众号【神秘的哥哥们】关注防失联","type": 3,"api": "csp_DouDou","searchable": 0,"quickSearch": 0,"filterable": 0},
 	
-{"key":"csp_Paper","name":"🌸纸条┃T4","type":4,"api":"http://home.jundie.top:9520/spider/cli_gitCafe","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/token.txt"},
-{"key":"易搜","name":"😹易搜┃搜索","type":3,"api":"csp_YiSo","ext":"./json/token.txt"},
-{"key":"盘搜","name":"🦊盘搜┃搜索","type":3,"api":"csp_PanSou","ext":"./json/token.txt"},
-{"key":"UP云搜","name":"😻Up搜┃搜索","type":3,"api":"csp_UpYun","ext":"./json/token.txt"},
-{"key":"找資源","name":"🐺找资源┃搜索","type":3,"api":"csp_Zhaozy","ext":"./json/token.txt"},
-{"key":"TuGou","name":"😿土狗┃搜索","type":3,"api":"csp_TuGou","searchable":1,"quickSearch":1,"changeable":0,"ext":"./json/token.txt"},
-{"key":"PanSearch","name":"🙀盘Se┃搜索","type":3,"api":"csp_PanSearch","searchable":1,"quickSearch":1,"filterable":0,"ext":"./json/token.txt"},
+{"key":"csp_Paper","name":"🌸纸条┃T4","type":4,"api":"http://home.jundie.top:9520/spider/cli_gitCafe","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/t.txt"},
+{"key":"易搜","name":"😹易搜┃搜索","type":3,"api":"csp_YiSo","ext":"./json/t.txt"},
+{"key":"盘搜","name":"🦊盘搜┃搜索","type":3,"api":"csp_PanSou","ext":"./json/t.txt"},
+{"key":"UP云搜","name":"😻Up搜┃搜索","type":3,"api":"csp_UpYun","ext":"./json/t.txt"},
+{"key":"找資源","name":"🐺找资源┃搜索","type":3,"api":"csp_Zhaozy","ext":"./json/t.txt"},
+{"key":"TuGou","name":"😿土狗┃搜索","type":3,"api":"csp_TuGou","searchable":1,"quickSearch":1,"changeable":0,"ext":"./json/t.txt"},
+{"key":"PanSearch","name":"🙀盘Se┃搜索","type":3,"api":"csp_PanSearch","searchable":1,"quickSearch":1,"filterable":0,"ext":"./json/t.txt"},
 {"key":"csp_Alist2","name":"小丫搜索","type":3,"api":"https://ghproxy.com/raw.githubusercontent.com/hjdhnx/dr_py/main/libs/alist.min.js","searchable":1,"quickSearch":0,"filterable":0,"ext":"./json/alist.json"},
 {"key": "csp_XiaoYa_宇宙","name": "小雅☆宇宙","type": 3,"api" : "csp_XiaoYa","jar" : "http://101.200.184.252:4567/spring.jar","ext" : "eyJhcGlLZXkiOiJiMzBlYTE0ZS1iMzQxLTQ5MWItOTJlOS1mMjI3NGNlNDU0ZWMiLCJhcGkiOiJodHRwOi8vMTAxLjIwMC4xODQuMjUyOjQ1NjcifQ==","searchable": 1,"quickSearch": 1,"filterable": 1,"categories":["热门4K","原画4K","国剧4K","港剧4K","韩剧4K","综艺4K","动漫4K"]},
 
 {"key":"Wobg","name":"阿里|玩偶表哥","type":3,"api":"csp_Wobg","searchable":1,"quickSearch":1,"filterable":1,"jar": "https://ghproxy.com/raw.githubusercontent.com/yydfys/yydf/main/阿里/jar/pg.jar","ext":"https://ghproxy.com/raw.githubusercontent.com/lsyysa/lsy/main/lj/open_token.json$$$http://wobge.run.goorm.io"},
 
-{"key":"csp_WoGG","name":"👽玩偶哥哥┃4K","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext": "./json/token.txt+4k|auto|fhd$$$https://www.wogg.xyz/$$$弹"},
+{"key":"csp_WoGG","name":"👽玩偶哥哥┃4K","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext": "./json/t.txt+4k|auto|fhd$$$https://www.wogg.xyz/$$$弹"},
 //{"key":"FanYY","name":"💦剥饭","type":3,"api":"csp_FanYY","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext": "./json/token.txt"},
-{"key":"七夜","name":"😾七夜┃4K","type":3,"api":"csp_Dovx","searchable":1,"filterable":0,"changeable":0,"ext":"./json/token.txt+4k|auto|fhd"},
+{"key":"七夜","name":"😾七夜┃4K","type":3,"api":"csp_Dovx","searchable":1,"filterable":0,"changeable":0,"ext":"./json/t.txt+4k|auto|fhd"},
 
 {"key":"csp_xBPQ_短视频","name":"短视频〔xBPQ〕","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"./xBPQ/短视频.json"},
 {"key":"csp_Yj1211","name":"网红直播┃SP","type": 3,"api": "csp_Yj1211","searchable": 1,"quickSearch": 1,"filterable": 1},
@@ -222,20 +222,6 @@
 {"key":"drpy_js_555电影[V2]","name":"影视 | 555电影[V2]","type":3,"api":"https://ghproxy.com/raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext":"https://ghproxy.com/raw.githubusercontent.com/hjdhnx/dr_py/main/js/555电影[V2].js"},
 {"key":"drpy_js_ikanbot2","name":"影视 | 爱看机器人2[js]","type":3,"api":"https://ghproxy.com/raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","searchable":1,"quickSearch":1,"changeable":1,"ext":"https://ghproxy.com/raw.githubusercontent.com/hjdhnx/dr_py/main/js/ikanbot2.js"},
 {"key":"drpy_js_素白白","name":"影视 | 素白白[js]","type":3,"api":"https://ghproxy.com/raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext":"https://ghproxy.com/raw.githubusercontent.com/hjdhnx/dr_py/main/js/素白白.js"},
-//{"key":"drpy_js_电影驿站","name":"影视 | 电影驿站[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/电影驿站.js"},
-{
-            "key": "电影驿站",
-            "name": "电影驿站",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "ext": {
-                "直接播放": "1",
-                "分类url": "https://www.dyyzb.com/vodshow/{cateId}-----------.html",
-                "分类": "电影$1#电视剧$2#综艺$3#动漫$4#短剧$49"
-            }
-        },
-
-
 
 
 	
@@ -243,7 +229,7 @@
 {"key":"csp_Ying","name":"樱花动漫┃SP","type":3,"api":"csp_Ying","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Ysj","name":"异界动漫┃SP","type":3,"api":"csp_Ysj","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Anime1","name":"日本动漫┃SP","type": 3,"api": "csp_Anime1","searchable": 1,"quickSearch": 1,"filterable": 1},
-{"key":"push_agent","name":"推送","type":3,"searchable":0,"changeable":1,"quickSearch":0,"filterable":0,"api":"./lib/lf_pushagent_min.js","timeout":30,"ext":"./json/token.txt"}
+{"key":"push_agent","name":"推送","type":3,"searchable":0,"changeable":1,"quickSearch":0,"filterable":0,"api":"./lib/lf_pushagent_min.js","timeout":30,"ext":"./json/t.txt"}
 
 //{"key": "push_agent","name": "🌸推送/阿里","type": 3,"api": "csp_Push","ext":"https://agit.ai/18503873514/NPXYS/raw/branch/master/koken/koken.txt","jar":"https://agit.ai/18503873514/NPXYS/raw/branch/master/JAR/阿里原画.jar;md5;a636612fad3f047f7df1690f8b4cfde4"}
 
