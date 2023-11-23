@@ -8,7 +8,8 @@ var rule={
             quickSearch: 0,//是否启用快速搜索,
             filterable: 0,//是否启用分类筛选,
             headers:{'User-Agent':'MOBILE_UA'},
-          
+            class_name:'电影&连续剧&综艺&动漫&短剧',//静态分类名称拼接
+            class_url:'1&2&3&4&49',//静态分类标识拼接
             play_parse: true,
             lazy: '',
             limit: 6,  
