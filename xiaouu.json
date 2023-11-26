@@ -28,8 +28,10 @@
 "sites":[
 //{"key":"drpy_js_豆瓣","name":"搜索 | 豆瓣[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/drpy.js"},
 {"key": "豆豆","name": "微信公众号【神秘的哥哥们】关注防失联","type": 3,"api": "csp_DouDou","searchable": 0,"quickSearch": 0,"filterable": 0},
-	
-{"key":"csp_Paper","name":"🌸纸条┃T4","type":4,"api":"http://home.jundie.top:9520/spider/cli_gitCafe","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/t.txt"},
+
+{"key":"纸条","name":"🌸纸条┃搜索","type":3,"api":"csp_XiaoZhiTiao","searchable":1,"filterable":1,"changeable":0,"ext":{"token":"./json/t.txt+4k|auto|fhd", "danmu": true},"jar":"https://mirror.ghproxy.com/raw.githubusercontent.com/okcaptain/okjar/main/ok1126.png;md5;7E4BA7C615441C5FD90E0EF44170C182"},
+    	
+//{"key":"csp_Paper","name":"🌸纸条┃T4","type":4,"api":"http://home.jundie.top:9520/spider/cli_gitCafe","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/t.txt"},
 {"key":"易搜","name":"😹易搜┃搜索","type":3,"api":"csp_YiSo","searchable":1,"quickSearch":1,"changeable":0,"ext":"./json/t.txt+4k|auto|fhd"},
 {"key":"盘搜","name":"🦊盘搜┃搜索","type":3,"api":"csp_PanSou","searchable":1,"quickSearch":1,"changeable":0,"ext":"./json/t.txt+4k|auto|fhd"},
 {"key":"UP云搜","name":"😻Up搜┃搜索","type":3,"api":"csp_UpYun","searchable":1,"quickSearch":1,"changeable":0,"ext":"./json/t.txt+4k|auto|fhd"},
@@ -65,14 +67,18 @@
 {"key":"drpy_js_虎牙直播","name":"直播|虎牙[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/虎牙直播.js","style":{"type": "rect","ratio": 1.755}},
 //{"key":"py_douyin","name":"直播|抖音[py]","type":3,"api":"py_douyin","style":{ "type":"rect", "ratio":1.33 },"ext":"./PY/douyin.py"},	//https://qu.ax/YspE.py
 {"key":"drpy_js_JustLive","name":"直播|JustLive[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/JustLive.js","style":{"type": "rect","ratio": 1.755}},
-{"key":"快手直播","name":"快手直播","type":3,"api":"csp_KsLive","searchable":0,"quickSearch":0,"filterable":1,"changeable":0,"style":{"type":"rect","ratio":1.433},"jar":"https://mirror.ghproxy.com/raw.githubusercontent.com/okcaptain/okjar/main/ok1125.png;md5;CB3042233075BEA2F64EE298A9EF5462"},
+{"key":"快手直播","name":"快手直播","type":3,"api":"csp_KsLive","searchable":0,"quickSearch":0,"filterable":1,"changeable":0,"style":{"type":"rect","ratio":1.433},"jar":"https://mirror.ghproxy.com/raw.githubusercontent.com/okcaptain/okjar/main/ok1126.png;md5;CB3042233075BEA2F64EE298A9EF5462"},
 	
 {"key":"csp_Nbys","name":"👑泥巴(墙外)","type":3,"api":"csp_NiNi","searchable":1,"quickSearch":1,"filterable":1},
 //{"key":"csp_Miaobo","name":"🔥秒播┃2K","type":3,"api":"csp_Miaobo","searchable":1,"quickSearch":1,"filterable":1},
 
-   
+{"key":"暴風","name":"暴風┃影视","type":1,"api":"https://bfzyapi.com/api.php/provide/vod","searchable":1,"changeable":1},
+{"key":"索尼","name":"索尼┃影视 ","type":1,"api":"https://suoniapi.com/api.php/provide/vod","searchable":1,"changeable":1},
+{"key":"快帆","name":"快帆┃影视","type":1,"api":"https://api.kuaifan.tv/api.php/provide/vod","searchable":1,"changeable":1},
+{"key":"量子","name":"量子┃影视","type":0,"api":"https://cj.lziapi.com/api.php/provide/vod/at/xml/","searchable":1,"changeable":1},
+         
 {"key": "非凡","name": "️🐝非凡┃影视","type": 1,"api": "http://cj.ffzyapi.com/api.php/provide/vod/from/ffm3u8/?ac=list","playUrl": "https://ffzyplayer.com/?url=","searchable": 1,"quickSearch": 1,"filterable": 1,"categories": ["国产剧","综艺","动漫","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","港澳剧","日剧","欧美剧","台湾剧","泰剧","韩剧","纪录片","动漫电影"]},
-{"key": "量子云播","name": "⚡量子┃影视","type": 1,"api": "https://cj.lziapi.com/api.php/provide/vod/from/lzm3u8/?ac=list","searchable": 1,"quickSearch": 1,"filterable": 1,"playUrl": "json:https://www.itvbox.cc/fflz.php?url="},
+//{"key": "量子云播","name": "⚡量子┃影视","type": 1,"api": "https://cj.lziapi.com/api.php/provide/vod/from/lzm3u8/?ac=list","searchable": 1,"quickSearch": 1,"filterable": 1,"playUrl": "json:https://www.itvbox.cc/fflz.php?url="},
 {
             "key": "JOJO",
             "name": "🕊︎JOJO┃直连",
