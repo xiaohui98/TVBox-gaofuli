@@ -29,7 +29,7 @@
 //{"key":"drpy_js_豆瓣","name":"搜索 | 豆瓣[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/drpy.js"},
 {"key": "豆豆","name": "微信公众号【神秘的哥哥们】关注防失联","type": 3,"api": "csp_DouDou","searchable": 0,"quickSearch": 0,"filterable": 0},
 
-{"key": "纸条弹幕版","name": "🔍纸条弹幕版┃搜索","type": 3,"api": "csp_XiaoZhiTiao","searchable": 1,"filterable": 1,"changeable": 1,"ext": { "token": "./json/t.txt","danmu": true },"jar": "https://jihulab.com/yydfys/yydf/-/raw/main/yydf/jar/danmu.jar"},
+{"key": "纸条弹幕版","name": "🔍纸条弹幕版┃搜索","type": 3,"api": "csp_XiaoZhiTiao","searchable": 1,"filterable": 1,"changeable": 1,"ext": { "token": "http://127.0.0.1:9978/file/tvbox/t.txt","danmu": true },"jar": "https://jihulab.com/yydfys/yydf/-/raw/main/yydf/jar/danmu.jar"},
 //{"key":"纸条","name":"🌸纸条┃搜索","type":3,"api":"csp_XiaoZhiTiao","searchable":1,"filterable":1,"changeable":0,"ext":{"token":"./json/t.txt+4k|auto|fhd", "danmu": true},"jar":"https://mirror.ghproxy.com/raw.githubusercontent.com/okcaptain/okjar/main/ok1126.png;md5;7E4BA7C615441C5FD90E0EF44170C182"},   	
 //{"key":"csp_Paper","name":"🌸纸条┃T4","type":4,"api":"http://home.jundie.top:9520/spider/cli_gitCafe","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/t.txt"},
 {"key":"易搜","name":"😹易搜┃搜索","type":3,"api":"csp_YiSo","searchable":1,"quickSearch":1,"changeable":0,"ext":"./json/t.txt+4k|auto|fhd"},
