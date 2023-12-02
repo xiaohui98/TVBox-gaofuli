@@ -34,7 +34,7 @@
       "searchable": 1,
       "changeable": 0,
       "ext": "./json/webdav.json",
-      "jar": "https://fm.t4tv.hz.cz/jar/custom_spider.jar;md5;e19f98c566e2280e961ce054f9367808"
+      "jar": "./jar/custom_spider.jar;md5;8f735b6bf0cda5984e8ec2c184fa9cd07"
     },    
     {"key":"csp_xBPQ_新香蕉中文字幕","name":"新香蕉中文字幕","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/新香蕉中文字幕.json"},
 
