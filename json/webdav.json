@@ -1,16 +1,10 @@
 {
   "drives": [
     {
-      "name": "七米藍",
-      "server": "https://al.chirmyram.com/dav",
-      "user": "alist",
-      "pass": "alist"
+      "name": "9T",
+      "server": "https://drive.9t.ee/dav",
+      "user": "dooglu",
+      "pass": "dooglu"
     },
-    {
-      "name": "影視庫",
-      "server": "https://esir.eu.org/dav",
-      "user": "alist",
-      "pass": "alist"
-    }
   ]
 }
