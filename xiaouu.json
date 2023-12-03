@@ -39,7 +39,7 @@
 {"key":"TuGou","name":"😿土狗┃搜索","type":3,"api":"csp_TuGou","searchable":1,"quickSearch":1,"changeable":0,"ext":"./json/t.txt+4k|auto|fhd"},
 {"key":"PanSearch","name":"🙀盘Se┃搜索","type":3,"api":"csp_PanSearch","searchable":1,"quickSearch":1,"filterable":0,"ext":"./json/t.txt+4k|auto|fhd"},
 {"key":"csp_Alist2","name":"小丫搜索","type":3,"api":"https://ghproxy.com/raw.githubusercontent.com/hjdhnx/dr_py/main/libs/alist.min.js","searchable":1,"quickSearch":0,"filterable":0,"ext":"./json/alist.json"},
-{"key": "csp_XiaoYa_宇宙","name": "小雅☆宇宙","type": 3,"api" : "csp_XiaoYa","jar" : "http://101.200.184.252:4567/spring.jar","ext" : "eyJhcGlLZXkiOiJiMzBlYTE0ZS1iMzQxLTQ5MWItOTJlOS1mMjI3NGNlNDU0ZWMiLCJhcGkiOiJodHRwOi8vMTAxLjIwMC4xODQuMjUyOjQ1NjcifQ==","searchable": 1,"quickSearch": 1,"filterable": 1,"categories":["热门4K","原画4K","国剧4K","港剧4K","韩剧4K","综艺4K","动漫4K"]},
+{"key": "csp_XiaoYa_宇宙","name": "小雅☆宇宙","type": 3,"api" : "csp_XiaoYa","jar" : "http://116.23.70.43:4567/spring.jar","ext" : "eyJhcGlLZXkiOiI2ZmE5MmQ2My03MGVkLTQyNzktYjE3NC1lODE3MWE5NzI5NzkiLCJhcGkiOiJodHRwOi8vMTE2LjIzLjcwLjQzOjQ1NjcifQ==","searchable": 1,"quickSearch": 1,"filterable": 1,"categories":["热门4K","原画4K","国剧4K","港剧4K","韩剧4K","综艺4K","动漫4K"]},
 
 {"key":"Wobg","name":"阿里|玩偶表哥","type":3,"api":"csp_Wobg","searchable":1,"quickSearch":1,"filterable":1,"jar": "https://ghproxy.com/raw.githubusercontent.com/yydfys/yydf/main/阿里/jar/pg.jar","ext":"https://ghproxy.com/raw.githubusercontent.com/lsyysa/lsy/main/lj/open_token.json$$$http://wobge.run.goorm.io"},
 
