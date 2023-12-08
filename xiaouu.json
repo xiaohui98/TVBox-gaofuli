@@ -70,7 +70,7 @@
 {"key":"drpy_js_JustLive","name":"直播|JustLive[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/JustLive.js","style":{"type": "rect","ratio": 1.755}},
 {"key":"快手直播","name":"快手直播","type":3,"api":"csp_KsLive","searchable":0,"quickSearch":0,"filterable":1,"changeable":0,"style":{"type":"rect","ratio":1.433},"jar":"https://mirror.ghproxy.com/raw.githubusercontent.com/okcaptain/okjar/main/ok1126.png;md5;CB3042233075BEA2F64EE298A9EF5462"},
 {"key":"抖音直播php","name":"抖音直播php","type":1,"api":"./zhibo/dyzb.php","playUrl": "","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"style":{"type":"rect","ratio":1.433}},
-{"key":"快手直播php","name":"快手直播php","type":1,"api":"./zhibo/kszbwd.php","playUrl": "","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"style":{"type":"rect","ratio":1.433}},
+{"key":"快手直播php","name":"快手直播php","type":1,"api":"http://127.0.0.1:9978/file/tvbox/kszbwd.php","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"style":{"type":"rect","ratio":1.433}},
 
 
 	
