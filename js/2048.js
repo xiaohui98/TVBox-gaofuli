@@ -1,0 +1,21 @@
+var rule={
+            title: '2048',
+            host: 'https://bbs.h121c.com/2048',
+            url:'/thread.php?fid=279&type=fyclass',
+          //https://chinaqtv.co/vodsearch/.html?wd=4
+          //  searchUrl: '/vodsearch/.html?wd=**',    
+            searchable: 2,//是否启用全局搜索,
+            quickSearch: 0,//是否启用快速搜索,
+            filterable: 0,//是否启用分类筛选,
+            headers:{'User-Agent':'MOBILE_UA'},
+           // class_parse: '.header&&ul&&li;a&&Text;a&&href;/(\\d+).html',
+            class_name:'网友自拍&国产精品',
+            class_url:'629&528',
+            play_parse: true,
+            lazy: '',
+            limit: 6,  
+        //  推荐: 'body&&.content;div.drama;*;*;*;*',
+            double:true,
+            一级: '.list-unstyled&&.thread;.subject&&a&&Text;.subject&&data-img;.text-grey&&Text;.subject&&a&&href',
+            二级: '*',
+ }
