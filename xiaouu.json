@@ -41,12 +41,15 @@
 {"key":"csp_Alist2","name":"小丫搜索","type":3,"api":"https://ghproxy.com/raw.githubusercontent.com/hjdhnx/dr_py/main/libs/alist.min.js","searchable":1,"quickSearch":0,"filterable":0,"ext":"./json/alist.json"},
 {"key": "csp_XiaoYa_宇宙","name": "小雅☆宇宙","type": 3,"api" : "csp_XiaoYa","jar" : "http://116.23.70.43:4567/spring.jar","ext" : "eyJhcGlLZXkiOiI2ZmE5MmQ2My03MGVkLTQyNzktYjE3NC1lODE3MWE5NzI5NzkiLCJhcGkiOiJodHRwOi8vMTE2LjIzLjcwLjQzOjQ1NjcifQ==","searchable": 1,"quickSearch": 1,"filterable": 1,"categories":["热门4K","原画4K","国剧4K","港剧4K","韩剧4K","综艺4K","动漫4K"]},
 
-{"key":"Wobg","name":"阿里|玩偶表哥","type":3,"api":"csp_Wobg","searchable":1,"quickSearch":1,"filterable":1,"jar": "https://ghproxy.com/raw.githubusercontent.com/yydfys/yydf/main/阿里/jar/pg.jar","ext":"https://ghproxy.com/raw.githubusercontent.com/lsyysa/lsy/main/lj/open_token.json$$$http://wobge.run.goorm.io"},
-
+//{"key":"Wobg","name":"阿里|玩偶表哥","type":3,"api":"csp_Wobg","searchable":1,"quickSearch":1,"filterable":1,"jar": "https://ghproxy.com/raw.githubusercontent.com/yydfys/yydf/main/阿里/jar/pg.jar","ext":"https://ghproxy.com/raw.githubusercontent.com/lsyysa/lsy/main/lj/open_token.json$$$http://wobge.run.goorm.io"},
+{"key":"玩偶表哥弹幕","name":"玩偶表哥弹幕|4K","type":3,"api":"csp_Wobg","quickSearch":1, "changeable":1, "filterable":1, "ext": {"token": "./json/t.txt","cookie": "https://git.xiaouu.link/xiaolinshao/linshao/main/夸克cookie.txt","danmu" : true}},
 {"key":"csp_WoGG","name":"👽玩偶哥哥┃4K","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext": "./json/t.txt+4k|auto|fhd$$$https://api.wogg.xyz/$$$弹"},
 //{"key":"FanYY","name":"💦剥饭","type":3,"api":"csp_FanYY","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext": "./json/token.txt"},
 {"key":"七夜","name":"😾七夜┃4K","type":3,"api":"csp_Dovx","searchable":1,"quickSearch":1,"changeable":0,"ext":"./json/t.txt+4k|auto|fhd"},
-
+{"key":"csp_QuPanSou","name":"趣盘搜┃搜索","type":3,"api":"csp_QuPanSou","searchable":1,"filterable":1,"changeable":0,"ext":{"cookie":"https://git.xiaouu.link/xiaolinshao/linshao/main/夸克cookie.txt", "danmu": true}},
+{"key":"csp_Qkpanso","name":"夸克盘搜┃搜索","type":3,"api":"csp_Qkpanso","searchable":1,"filterable":1,"changeable":0,"ext":{"cookie":"https://git.xiaouu.link/xiaolinshao/linshao/main/夸克cookie.txt", "danmu": true}},
+{"key":"云盘4K","name":"云盘4K┃搜索","type":3,"api":"csp_Yunpan4k","searchable":1,"filterable":0,"changeable":0,"ext":{"token":"./json/t.txt", "danmu": true},"jar":"https://git.xiaouu.link/okcaptain/okjar/main/ok.png;md5;6D75114325297FF77660F718EAAA9959"},
+       
 {"key":"csp_xBPQ_短视频","name":"短视频〔xBPQ〕","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"./xBPQ/短视频.json"},
 {"key":"csp_Yj1211","name":"网红直播┃SP","type": 3,"api": "csp_Yj1211","searchable": 1,"quickSearch": 1,"filterable": 1},
 //{"key":"Bili","name":"哔哩合集","type":3,"api":"csp_Bili","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/chuqiuyu.json"},
@@ -68,7 +71,7 @@
 {"key":"drpy_js_虎牙直播","name":"直播|虎牙[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/虎牙直播.js","style":{"type": "rect","ratio": 1.755}},
 //{"key":"py_douyin","name":"直播|抖音[py]","type":3,"api":"py_douyin","style":{ "type":"rect", "ratio":1.33 },"ext":"./PY/douyin.py"},	//https://qu.ax/YspE.py
 {"key":"drpy_js_JustLive","name":"直播|JustLive[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/JustLive.js","style":{"type": "rect","ratio": 1.755}},
-{"key":"快手直播","name":"快手直播","type":3,"api":"csp_KsLive","searchable":0,"quickSearch":0,"filterable":1,"changeable":0,"style":{"type":"rect","ratio":1.433},"jar":"https://mirror.ghproxy.com/raw.githubusercontent.com/okcaptain/okjar/main/ok1126.png;md5;CB3042233075BEA2F64EE298A9EF5462"},
+{"key":"快手直播","name":"快手直播","type":3,"api":"csp_KsLive","searchable":0,"quickSearch":0,"filterable":1,"changeable":0,"style":{"type":"rect","ratio":1.433},"jar":"https://git.xiaouu.link/okcaptain/okjar/main/ok.png;md5;6D75114325297FF77660F718EAAA9959"},
 {"key":"抖音直播php","name":"抖音直播php","type":1,"api":"./zhibo/dyzb.php","PlayUrl": "","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"style":{"type":"rect","ratio":1.433}},
 {"key":"快手直播php","name":"快手直播php","type":1,"api":"https://git.xiaouu.link/xiaohui98/TVBox-gaofuli/master/zhibo/kszbwd.php","PlayUrl": "","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"style":{"type":"rect","ratio":1.433}},
 {"key":"drpy_js_justlive","name":"justlive","type":3,"api":"https://git.xiaouu.link/hjdhnx/dr_py/main/libs/drpy2.min.js","ext":"https://git.xiaouu.link/hjdhnx/dr_py/main/js/JustLive.js"},
