@@ -27,6 +27,21 @@
             "ext": "http://127.0.0.1:9978/file/tvbox/alist1.json"
     },
     {
+    "ext" : "eyJhcGlLZXkiOiI3ZmFmMDIxZC1iMjg1LTQ5MGQtOWE4OS1iODBjMzkyYjdmOTMiLCJhcGkiOiJodHRwOi8veG8ueG94bzUyMC50b3A6NDU2NyJ9",
+    "filterable" : 1,
+    "quickSearch" : 1,
+    "name" : "AList",
+    "changeable" : 0,
+    "jar" : "http://xo.xoxo520.top:4567/spring.jar",
+    "style" : {
+      "type" : "rect"
+    },
+    "api" : "csp_AList",
+    "type" : 3,
+    "key" : "csp_AList",
+    "searchable" : 1
+  }, 
+    {
       "key": "WebDAV",
       "name": "WebDAV",
       "type": 3,
