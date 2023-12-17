@@ -51,7 +51,15 @@
 {"key":"csp_QuPanSou","name":"趣盘搜┃搜索","type":3,"api":"csp_QuPanSou","searchable":1,"filterable":1,"changeable":0,"ext":{"cookie":"https://gitee.com/ajin0913/xiaobai/raw/master/lib/cookie.txt", "danmu": true},"jar":"https://git.xiaouu.link/okcaptain/okjar/main/ok.png;md5;6D75114325297FF77660F718EAAA9959"},
 {"key":"csp_Qkpanso","name":"夸克盘搜┃搜索","type":3,"api":"csp_Qkpanso","searchable":1,"filterable":1,"changeable":0,"ext":{"cookie":"https://gitee.com/ajin0913/xiaobai/raw/master/lib/cookie.txt", "danmu": true},"jar":"https://git.xiaouu.link/okcaptain/okjar/main/ok.png;md5;6D75114325297FF77660F718EAAA9959"},
 {"key":"云盘4K","name":"云盘4K┃搜索","type":3,"api":"csp_Yunpan4k","searchable":1,"filterable":0,"changeable":0,"ext":{"token":"./json/t.txt", "danmu": true},"jar":"https://git.xiaouu.link/okcaptain/okjar/main/ok.png;md5;6D75114325297FF77660F718EAAA9959"},
-       
+
+{"key":"Ppxzy","name":"皮皮虾","type":3,"api":"csp_Ppxzy", "quickSearch":1, "changeable":1, "filterable":1, "ext":"https://git.xiaouu.link/13998394872/TVBox/main/ext/tokenm.json$$$https://ppxzy.net/", "timeout":30,"jar":"https://git.xiaouu.link/13998394872/TVBox/main/jar/pg.jar"}, 
+{"key":"csp_Hdhive","name":"影巢","type":3,"api":"csp_Hdhive","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://git.xiaouu.link/13998394872/TVBox/main/ext/tokenm.json","timeout":30,"jar":"https://git.xiaouu.link/13998394872/TVBox/main/jar/pg.jar"},
+{"key":"新6V","name":"新6V","type":3,"api":"csp_Xb6v","searchable":1,"changeable":1,"timeout":60,"ext":"https://git.xiaouu.link/13998394872/TVBox/main/ext/tokenm.json$$$http://www.xb6v.com","jar":"https://git.xiaouu.link/13998394872/TVBox/main/jar/pg.jar"},
+{"key":"4KHDR","name":"4KHDR","type":3,"api":"csp_FourKHDR","ext":"https://git.xiaouu.link/13998394872/TVBox/main/ext/tokenm.json$$$https://git.xiaouu.link/13998394872/TVBox/main/ext/4KHDR_Cookie.json","quickSearch":1,"changeable":1,"timeout":60,"jar":"https://git.xiaouu.link/13998394872/TVBox/main/jar/pg.jar"},
+{"key":"校长影视","name":"校长","type":3,"api":"csp_XiaoZhang","ext":"https://ghproxy.net/https://git.xiaouu.link/13998394872/TVBox/main/ext/tokenm.json","quickSearch":1,"changeable":1,"timeout":30,"jar":"https://git.xiaouu.link/13998394872/TVBox/main/jar/pg.jar"},
+{"key":"团长资源","name":"团长","type":3,"api":"csp_TZFile","ext":"https://ghproxy.net/https://git.xiaouu.link/13998394872/TVBox/main/ext/tokenm.json", "quickSearch":1, "changeable":1, "timeout":30,"jar":"https://git.xiaouu.link/13998394872/TVBox/main/jar/pg.jar"},
+
+	
 {"key":"csp_xBPQ_短视频","name":"短视频〔xBPQ〕","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"./xBPQ/短视频.json"},
 {"key":"csp_Yj1211","name":"网红直播┃SP","type": 3,"api": "csp_Yj1211","searchable": 1,"quickSearch": 1,"filterable": 1},
 //{"key":"Bili","name":"哔哩合集","type":3,"api":"csp_Bili","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/chuqiuyu.json"},
