@@ -50,7 +50,16 @@
       "changeable": 0,
       "ext": "./json/webdav.json",
       "jar": "./jar/custom_spider.jar;md5;8f735b6bf0cda5984e8ec2c184fa9cd07"
-    },    
+    },  
+     {
+            "key": "黄色仓库",
+            "name": "黄色仓库",
+            "type": 1,
+            "api": "http://www.244444.xyz/api.php/provide/vod",
+            "searchable": 1,
+            "quickSearch": 0,
+            "filterable": 0
+        },      
     {"key":"csp_xBPQ_新香蕉中文字幕","name":"新香蕉中文字幕","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/新香蕉中文字幕.json"},
 
     {"key":"csp_xBPQ_新香蕉废柴网","name":"新香蕉废柴网","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/新香蕉废柴网.json"},
