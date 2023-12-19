@@ -35,7 +35,9 @@
 {"key":"易搜","name":"😹易搜┃搜索","type":3,"api":"csp_YiSo","searchable":1,"quickSearch":1,"changeable":0,"ext":"./json/t.txt+4k|auto|fhd"},
 {"key":"盘搜","name":"🦊盘搜┃搜索","type":3,"api":"csp_PanSou","searchable":1,"quickSearch":1,"changeable":0,"ext":"./json/t.txt+4k|auto|fhd"},
 {"key":"UP云搜","name":"😻Up搜┃搜索","type":3,"api":"csp_UpYun","searchable":1,"quickSearch":1,"changeable":0,"ext":"./json/t.txt+4k|auto|fhd"},
-{"key":"找資源","name":"🐺找资源┃搜索","type":3,"api":"csp_Zhaozy","searchable":1,"quickSearch":1,"changeable":0,"ext":"./json/t.txt+4k|auto|fhd$$$fanty$$$qqq111"},
+//{"key":"找資源","name":"🐺找资源┃搜索","type":3,"api":"csp_Zhaozy","searchable":1,"quickSearch":1,"changeable":0,"ext":"./json/t.txt+4k|auto|fhd$$$fanty$$$qqq111"},
+{"key":"找資源","name":"🐺找資源┃搜索","type":3,"api":"csp_Zhaozy","searchable":1,"filterable":0,"changeable":0,"ext":{"token":"./json/t.txt", "danmu": true},"jar":"https://git.xiaouu.link/okcaptain/okjar/main/ok.png;md5;6D75114325297FF77660F718EAAA9959"},
+
 {"key":"TuGou","name":"😿土狗┃搜索","type":3,"api":"csp_TuGou","searchable":1,"quickSearch":1,"changeable":0,"ext":"./json/t.txt+4k|auto|fhd"},
 {"key":"PanSearch","name":"🙀盘Se┃搜索","type":3,"api":"csp_PanSearch","searchable":1,"quickSearch":1,"filterable":0,"ext":"./json/t.txt+4k|auto|fhd"},
 {"key":"csp_Alist2","name":"小丫搜索","type":3,"api":"https://ghproxy.com/raw.githubusercontent.com/hjdhnx/dr_py/main/libs/alist.min.js","searchable":1,"quickSearch":0,"filterable":0,"ext":"./json/alist.json"},
@@ -85,14 +87,15 @@
 {"key":"快手直播","name":"快手直播","type":3,"api":"csp_KsLive","searchable":0,"quickSearch":0,"filterable":1,"changeable":0,"style":{"type":"rect","ratio":1.433},"jar":"https://git.xiaouu.link/okcaptain/okjar/main/ok.png;md5;6D75114325297FF77660F718EAAA9959"},
 {"key":"抖音直播php","name":"抖音直播php","type":1,"api":"https://dy--uuu123.repl.co/index.php","searchable":1,"quickSearch":0,"filterable":0,"style":{"type":"rect","ratio":1.433}},
 {"key":"快手直播php","name":"快手直播php","type":1,"api":"https://dy--uuu123.repl.co/kszbwd.php","searchable":1,"quickSearch":0,"filterable":0,"style":{"type":"rect","ratio":1.433}},
-{"key":"drpy_js_justlive","name":"justlive","type":3,"api":"https://git.xiaouu.link/hjdhnx/dr_py/main/libs/drpy2.min.js","ext":"https://git.xiaouu.link/hjdhnx/dr_py/main/js/JustLive.js"},
+{"key":"JustLive","name":"聚合直播|JustLive","type":3,"api":"csp_JustLive","searchable":1,"changeable":0,"style":{"type":"rect","ratio":1.433},"jar":"https://git.xiaouu.link/okcaptain/okjar/main/ok.png;md5;6D75114325297FF77660F718EAAA9959"},
 {"key":"数据库php","name":"数据库php","type":4,"api":"https://dy--uuu123.repl.co/AV数据库.php","PlayUrl": "","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"style":{"type":"rect","ratio":1.433}},
 
 
 	
 {"key":"csp_Nbys","name":"👑泥巴(墙外)","type":3,"api":"csp_NiNi","searchable":1,"quickSearch":1,"filterable":1},
 //{"key":"csp_Miaobo","name":"🔥秒播┃2K","type":3,"api":"csp_Miaobo","searchable":1,"quickSearch":1,"filterable":1},
-
+{"key":"996影院","name":"996影院","type":3,"api":"csp_Cs1369","searchable":1,"changeable":1,"jar":"https://git.xiaouu.link/okcaptain/okjar/main/ok.png;md5;6D75114325297FF77660F718EAAA9959"},
+    
 {"key":"暴風","name":"暴風┃影视","type":1,"api":"https://bfzyapi.com/api.php/provide/vod","searchable":1,"changeable":1},
 {"key":"索尼","name":"索尼┃影视 ","type":1,"api":"https://suoniapi.com/api.php/provide/vod","searchable":1,"changeable":1},
 {"key":"快帆","name":"快帆┃影视","type":1,"api":"https://api.kuaifan.tv/api.php/provide/vod","searchable":1,"changeable":1},
@@ -137,7 +140,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1,
-            "ext": "https://www.czz9.com"
+            "ext": "https://www.czzy33.com"
         },
 {
             "key": "毛驴",
