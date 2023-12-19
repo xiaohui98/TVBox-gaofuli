@@ -1,6 +1,6 @@
 {
-"spider":"https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;bf1f28d65240042a470d4f80035e529f",
-        
+//"spider":"https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;bf1f28d65240042a470d4f80035e529f",
+"spider":"https://fm.t4tv.hz.cz/jar/custom_spider.jar;md5;d793cc92ea62550b731392d15bacb859",           
 "lives":[
         {"name":"live","type":0,"url":"https://qu.ax/sEYA.png",
                                 "epg":"http://epg.112114.xyz/?ch={name}&date={date}",
