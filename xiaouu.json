@@ -6,6 +6,7 @@
 		    "name": "live",
 		    "type": 0,
 		    "url": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/live.txt",
+	            "epg":"http://epg.112114.xyz/?ch={name}&date={date}",
 		    "logo": "https://epg.112114.xyz/logo/{name}.png"
 	    }],
 "rules": [
@@ -73,10 +74,12 @@
 //{"key":"csp_Biliych","name":"🅱哔哔┃演唱会","type": 3,"api": "csp_Bili","searchable":1,"quickSearch": 0,"changeable": 0,"style":{"type": "rect","ratio": 1.597},"ext":"https://agit.ai/fantaiying/fty/raw/branch/master/json/biliych.json"},
 //{"key": "Bili8k","name": "🅱哔哩8k","type": 3,"api": "csp_Bili","style": {"type": "rect","ratio": 1.597},"searchable": 1,"quickSearch": 0,"changeable": 0,"ext": "https://agit.ai/xxm247/Rfx/raw/branch/master/Bilibili/哔哩8K.json","jar": "https://agit.ai/ctt/gao/raw/branch/master/jar/fan.txt"},
 {"key":"Alist","name":"Alist网盘","type":3,"api":"csp_AList","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/alist.json"},
+
+{"key":"lf_js_lf_live","name":"🅿电视┃直播","type":3,"api":"./lib/lf_live_min.js","style":{ "type":"oval"},"searchable":1,"changeable":0,"quickSearch":0,"filterable":1,"ext":"./js/lf_live.txt"},
 	
-{"key": "直播转点播","name":"🐼️┃电视┃直播","type": 3,"api":"http://我不是.肥猫.love:63/JS/直播转点播2.js","ext":"http://我不是.肥猫.love:63/lives/直播仓.json"},
+//{"key": "直播转点播","name":"🐼️┃电视┃直播","type": 3,"api":"http://我不是.肥猫.love:63/JS/直播转点播2.js","ext":"http://我不是.肥猫.love:63/lives/直播仓.json"},
 //{"key": "直播转点播","name": "🎦直播转换","type": 3,"api": "https://gitea.com/chen154672/tvbox/raw/branch/master/JS/js/直播转点播.js","ext": "https://gitea.com/chen154672/tvbox/raw/branch/master/JS/js/直播.js&&&https://gitea.com/chen154672/tvbox/raw/branch/master/png/T4.webp"}, 
-{"key": "直播","name": "🅿电视┃直播", "type": 4,"playerType":1, "api": "http://120.53.102.254/live2?url=https://agit.ai/fantaiying/fty/raw/branch/master/live.txt"},
+//{"key": "直播","name": "🅿电视┃直播", "type": 4,"playerType":1, "api": "http://120.53.102.254/live2?url=https://agit.ai/fantaiying/fty/raw/branch/master/live.txt"},
 
 {"key":"csp_XPath_企鹅体育","name":"🐧企鹅体育","type":3,"api":"csp_XPath","searchable":0,"quickSearch":0,"filterable":0,"ext":"./json/企鹅体育.json","style":{"type": "rect","ratio": 1.597}},
 {"key":"drpy_js_哔哩直播","name":"直播|哔哩[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/哔哩直播.js","style":{"type": "rect","ratio": 1.755}},
