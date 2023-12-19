@@ -59,7 +59,28 @@
             "searchable": 1,
             "quickSearch": 0,
             "filterable": 0
-        },      
+        },     
+     {
+            "key": "ppp",
+            "name": "ppp┃BPQ",
+            "type": 3,
+            "searchable": 1,
+            "quickSearch": 1,
+            "api": "csp_XBPQ",
+            "ext": {
+                "直接播放":"1",
+                "嗅探词": "m3u8#.m3u8",
+                "数组": "<figure class=\"aspect-ratio\">&&</a",
+                "图片": "data-src=\"&&\"",
+                "标题": "alt=\"&&\"",
+                "链接": "href=\"&&\"",
+                "搜索url":"https://ppp.porn/search/{wd}/",
+                "搜索图片": "data-src=\"&&\"",
+                "搜索数组": "<figure class=\"aspect-ratio\">&&</a",
+                "分类url": "https://ppp.porn/categories/{cateId}/{catePg}/;;a",
+                "分类": "china-av$china-av"
+            }
+        },   
     {"key":"csp_xBPQ_新香蕉中文字幕","name":"新香蕉中文字幕","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/新香蕉中文字幕.json"},
 
     {"key":"csp_xBPQ_新香蕉废柴网","name":"新香蕉废柴网","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/新香蕉废柴网.json"},
