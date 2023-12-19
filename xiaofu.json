@@ -79,7 +79,8 @@
                 "搜索数组": "<figure class=\"aspect-ratio\">&&</a",
                 "分类url": "https://ppp.porn/categories/{cateId}/{catePg}/;;a",
                 "分类": "china-av$china-av"
-            }
+            },
+             "jar":"./jar/XBPQ.jar"
         },   
     {"key":"csp_xBPQ_新香蕉中文字幕","name":"新香蕉中文字幕","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/新香蕉中文字幕.json"},
 
