@@ -63,6 +63,8 @@
 {"key":"校长影视","name":"校长","type":3,"api":"csp_XiaoZhang","ext":"https://git.xiaouu.link/13998394872/TVBox/main/ext/tokenm.json","quickSearch":1,"changeable":1,"timeout":30,"jar":"https://git.xiaouu.link/13998394872/TVBox/main/jar/pg.jar"},
 {"key":"团长资源","name":"团长","type":3,"api":"csp_TZFile","ext":"https://git.xiaouu.link/13998394872/TVBox/main/ext/tokenm.json", "quickSearch":1, "changeable":1, "timeout":30,"jar":"https://git.xiaouu.link/13998394872/TVBox/main/jar/pg.jar"},
 
+{"key":"大盘搜弹幕版","name":"🥏大盘搜┃4K","type":3,"api":"csp_DaPanSo","quickSearch":1, "changeable":1, "filterable":1, "timeout":30, "ext":"https://agit.ai/CT/TTT/raw/branch/master/jar/tokenm.json$$$https://dapanso.com$$$null","jar":"https://gitee.com/software-talent-live-source/jar/raw/master/pg.jar;md5;040BA7DC4BE09B36D4F8BACF5D100CD2"}, 
+{"key":"移动弹幕版","name":"📱盘Ta┃4K","type":3,"api":"csp_Panta","quickSearch":1, "changeable":1, "filterable":1, "timeout":30, "ext":"https://agit.ai/CT/TTT/raw/branch/master/jar/tokenm.json$$$https://www.91panta.cn/$$$null$$$1","jar":"https://gitee.com/software-talent-live-source/jar/raw/master/pg.jar;md5;040BA7DC4BE09B36D4F8BACF5D100CD2"},
 	
 {"key":"csp_xBPQ_短视频","name":"短视频〔xBPQ〕","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"./xBPQ/短视频.json"},
 {"key":"csp_Yj1211","name":"网红直播┃SP","type": 3,"api": "csp_Yj1211","searchable": 1,"quickSearch": 1,"filterable": 1},
