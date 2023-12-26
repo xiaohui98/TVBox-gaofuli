@@ -71,6 +71,7 @@
             },
             "api": "csp_XBPQ",
             "ext":{"分类url":"https://tktube.com/categories/{cateId}/?mode=async&function=get_block&block_id=list_videos_common_videos_list&sort_by=post_date&from=0{catePg}",
+            "jar":"./jar/XBPQ.jar",
             "直接播放":"1",
             "搜索模式":"1",
             "搜索url":"https://tktube.com/search/{wd}/",
