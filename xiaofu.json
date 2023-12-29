@@ -51,7 +51,7 @@
       "ext": "./json/webdav.json",
       "jar": "./jar/custom_spider.jar;md5;8f735b6bf0cda5984e8ec2c184fa9cd07"
     }, 
-{"key":"PS","name":"PS┃分享","type":3,"api":"csp_PikPakShare","searchable":0,"quickSearch":0, "changeable":0,"filterable":0,"ext":"./PS/p.json$$$./PS/ps.json","jar":"https://jihulab.com/bestyr1/xiaobai/-/raw/master/jar/pg.jar"},
+{"key":"PS","name":"PS┃分享","type":3,"api":"csp_PikPakShare","searchable":0,"quickSearch":0, "changeable":0,"filterable":0,"ext":"./lib/p.json$$$./lib/pikpakclass.json","jar":"https://jihulab.com/bestyr1/xiaobai/-/raw/master/jar/pg.jar"},
      {
             "key": "黄色仓库",
             "name": "黄色仓库",
