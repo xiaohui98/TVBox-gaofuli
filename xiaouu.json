@@ -94,7 +94,7 @@
 //{"key":"py_douyin","name":"直播|抖音[py]","type":3,"api":"py_douyin","style":{ "type":"rect", "ratio":1.33 },"ext":"./PY/douyin.py"},	//https://qu.ax/YspE.py
 {"key":"drpy_js_JustLive","name":"直播|JustLive[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/JustLive.js","style":{"type": "rect","ratio": 1.755}},
 {"key":"快手直播","name":"快手直播","type":3,"api":"csp_KsLive","searchable":0,"quickSearch":0,"filterable":1,"changeable":0,"style":{"type":"rect","ratio":1.433},"jar":"https://git.xiaouu.link/okcaptain/okjar/main/ok.png;md5;6D75114325297FF77660F718EAAA9959"},
-{"key":"抖音直播php","name":"抖音直播php","type":1,"api":"http://ph.liveblog365.com/dyzb.php","searchable":1,"quickSearch":0,"filterable":0,"style":{"type":"rect","ratio":1.433}},
+{"key":"抖音直播php","name":"抖音直播php","type":1,"api":"http://jiuce.freeee.cf/dyzb.php","searchable":1,"quickSearch":0,"filterable":0,"style":{"type":"rect","ratio":1.433}},
 {"key":"快手直播php","name":"快手直播php","type":1,"api":"https://dy--uuu123.repl.co/kszbwd.php","searchable":1,"quickSearch":0,"filterable":0,"style":{"type":"rect","ratio":1.433}},
 {"key":"JustLive","name":"聚合直播|JustLive","type":3,"api":"csp_JustLive","searchable":1,"changeable":0,"style":{"type":"rect","ratio":1.433},"jar":"https://git.xiaouu.link/okcaptain/okjar/main/ok.png;md5;6D75114325297FF77660F718EAAA9959"},
 {"key":"数据库php","name":"数据库php","type":4,"api":"https://dy--uuu123.repl.co/AV数据库.php","PlayUrl": "","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"style":{"type":"rect","ratio":1.433}},
