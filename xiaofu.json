@@ -53,7 +53,8 @@
     }, 
 //{"key":"PikPakShare","name":"PikPak分享","type":3,"api":"csp_PikPakShare","searchable":0,"quickSearch":0, "changeable":0, "filterable":0, "timeout":60, "ext":"http://127.0.0.1:9978/file/tvbox/tokenm.json$$$http://127.0.0.1:9978/file/tvbox/pikpakclass.json","jar":"https://git.xiaouu.link/cnxuyang/ma/pg/pg.jar;md5;63651267e336a7e8e3619e8d667a4047"},
 //{"key":"PikPakShare","name":"PikPak分享","type":3,"api":"csp_PikPakShare","searchable":1,"quickSearch":1, "changeable":0, "filterable":0, "timeout":60, "ext":"http://127.0.0.1:9978/file/tvbox/tokenm.json$$$http://127.0.0.1:9978/file/tvbox/pikpakclass.json","jar":"https://ghproxy.net/https://raw.githubusercontent.com/13998394872/TVBox/main/jar/pg.jar"},
-{"key":"PikPakShare","name":"PikPak分享","type":3,"api":"csp_PikPakShare","searchable":1,"quickSearch":1, "changeable":0, "filterable":0, "timeout":60, "ext":"https://gitee.com/ajin0913/jin/raw/master/lib/PG%E6%8E%A8%E9%80%81.json$$$http://127.0.0.1:9978/file/tvbox/pikpakclass.json","jar":"./jar/pg.jar;md5;fabe7371dced6c4ab7ea37a308541258"},
+//{"key":"PikPakShare","name":"PikPak分享","type":3,"api":"csp_PikPakShare","searchable":1,"quickSearch":1, "changeable":0, "filterable":0, "timeout":60, "ext":"https://gitee.com/ajin0913/jin/raw/master/lib/PG%E6%8E%A8%E9%80%81.json$$$http://127.0.0.1:9978/file/tvbox/pikpakclass.json","jar":"./jar/pg.jar;md5;fabe7371dced6c4ab7ea37a308541258"},
+{"key":"PikPakShare","name":"PikPak分享","type":3,"api":"csp_PikPakShare","searchable":1,"quickSearch":1, "changeable":0, "filterable":0, "timeout":60, "ext":"http://127.0.0.1:9978/file/tvbox/tokenm.json$$$http://127.0.0.1:9978/file/tvbox/pikpakclass.json","jar":"./jar/pg.jar;md5;fabe7371dced6c4ab7ea37a308541258"},
 
 	{
             "key": "黄色仓库",
