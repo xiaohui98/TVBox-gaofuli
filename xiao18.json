@@ -3,7 +3,7 @@
 "lives": [{"name": "live","type": 0,"url":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/live.txt","ua": "okhttp/3.15","epg": "http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"}],
 "sites":[
 {"key":"应用商店","name":"应用┃商店","type":3,"api":"csp_Market","searchable":0,"changeable":0,"ext":"https://gitee.com/ajin0913/xiaohei/raw/master/json/market.json"},
-{"key":"PikPakShare","name":"PikPak┃分享","type":3,"api":"csp_PikPakShare","searchable":1,"quickSearch":1, "changeable":0,"filterable":0,"ext":"http://127.0.0.1:9978/file/tvbox/tokenm.json$$$http://127.0.0.1:9978/file/tvbox/pikpakclass.json","timeout":60,"style":{"type": "rect","ratio": 1.755}},
+{"key":"PikPakShare","name":"PikPak┃分享","type":3,"api":"csp_PikPakShare","searchable":1,"quickSearch":1, "changeable":0,"filterable":0,"ext":"http://127.0.0.1:9978/file/tvbox/tokenm.json$$$http://127.0.0.1:9978/file/tvbox/pikpakclass.json","timeout":60,"style":{"type": "rect","ratio": 1.4}},
 {"key":"push_agent","name":"影视┃推送","type":3,"api":"csp_Push","searchable":0,"quickSearch":0,"changeable":0,"ext":"https://gitee.com/ajin0913/jin/raw/master/lib/PG%E6%8E%A8%E9%80%81.json", "timeout":60}
 ],
 
