@@ -7,7 +7,10 @@
 {"key":"PikPakShare2","name":"PP┃分享","type":3,"api":"csp_PikPakShare","searchable":1,"quickSearch":1, "changeable":0,"filterable":0,"ext":"http://127.0.0.1:9978/file/tvbox/tokenm.json$$$http://127.0.0.1:9978/file/tvbox/pikpakclass.json","timeout":60,"style":{"type": "rect","ratio": 1.166}},
 {"key":"PS分享","name":"PS┃分享","type":3,"api":"csp_PikPakShare","searchable":1,"quickSearch":1, "changeable":0,"filterable":0,"ext":"http://127.0.0.1:9978/file/tvbox/tokenm.json$$$./PS/ps.json","timeout":60,"style":{"type": "rect","ratio": 1.166}},
 {"key":"测试专用","name":"测试专用","type":3,"api":"csp_PikPakShare","searchable":1,"quickSearch":1, "changeable":0,"filterable":0,"ext":"http://127.0.0.1:9978/file/tvbox/tokenm.json$$$http://127.0.0.1:9978/file/tvbox/pikpakclass.json","jar":"http://127.0.0.1:9978/file/tvbox/pg/pg.jar;md5;71a1f9948cc56ccea4bf10ded0c777ac","timeout":60,"style":{"type": "rect","ratio": 1.166}},
-{"key": "sexy","name": "sexy","type": 3,"searchable": 1,"quickSearch": 1,"api": "csp_XBPQ","ext": {"直接播放":"1","嗅探词": "m3u8#.m3u8","分类url": "https://sexkbj.com/category/{cateId}/page/{catePg}","分类": "韩国主播$korean-bj"},"jar":"./jar/XBPQ.jar"},   
+{"key": "sexy","name": "sexy","type": 3,"searchable": 1,"quickSearch": 1,"api": "csp_XBPQ","ext": {"直接播放":"1","嗅探词": "m3u8#.m3u8","分类url": "https://sexkbj.com/category/{cateId}/page/{catePg}","分类": "韩国主播$korean-bj#高级$premium#afreecatv$afreecatv#韩国素人$korean-amateur","jar":"./jar/XBPQ.jar"},   
+{"key": "sexy","name": "sexy","type": 3,"searchable": 1,"quickSearch": 1,"api": "csp_XBPQ","ext": {"直接播放":"1","嗅探词": "m3u8#.m3u8","分类url": "https://sexkbj.com/category/{cateId}/page/{catePg}","分类": "韩国主播$korean-bj#高级$premium#afreecatv$afreecatv#韩国素人$korean-amateur","jar":"./jar/XBPQ.jar"},   
+
+
 {"key":"push_agent","name":"影视┃推送","type":3,"api":"csp_Push","searchable":0,"quickSearch":0,"changeable":0,"ext":"https://gitee.com/ajin0913/jin/raw/master/lib/PG%E6%8E%A8%E9%80%81.json", "timeout":60}
 ],
 
