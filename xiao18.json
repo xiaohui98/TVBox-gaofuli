@@ -5,6 +5,7 @@
 {"key":"应用商店","name":"应用┃商店","type":3,"api":"csp_Market","searchable":0,"changeable":0,"ext":"https://gitee.com/ajin0913/xiaohei/raw/master/json/market.json"},
 {"key":"PikPakShare","name":"PikPak┃分享","type":3,"api":"csp_PikPakShare","searchable":1,"quickSearch":1, "changeable":0,"filterable":0,"ext":"http://127.0.0.1:9978/file/tvbox/tokenm.json$$$http://127.0.0.1:9978/file/tvbox/pikpakclass.json","timeout":60,"style":{"type": "rect","ratio": 1.166}},
 {"key":"PS分享","name":"PS┃分享","type":3,"api":"csp_PikPakShare","searchable":1,"quickSearch":1, "changeable":0,"filterable":0,"ext":"http://127.0.0.1:9978/file/tvbox/tokenm.json$$$./PS/ps.json","timeout":60,"style":{"type": "rect","ratio": 1.166}},
+{"key":"测试专用","name":"测试专用","type":3,"api":"csp_PikPakShare","searchable":1,"quickSearch":1, "changeable":0,"filterable":0,"ext":"http://127.0.0.1:9978/file/tvbox/tokenm.json$$$http://127.0.0.1:9978/file/tvbox/pikpakclass.json","jar":"http://127.0.0.1:9978/file/tvbox/pg/pg.jar;md5;71a1f9948cc56ccea4bf10ded0c777ac","timeout":60,"style":{"type": "rect","ratio": 1.166}},
 {"key":"push_agent","name":"影视┃推送","type":3,"api":"csp_Push","searchable":0,"quickSearch":0,"changeable":0,"ext":"https://gitee.com/ajin0913/jin/raw/master/lib/PG%E6%8E%A8%E9%80%81.json", "timeout":60}
 ],
 
