@@ -1,7 +1,8 @@
 {
 //"spider":"./jar/0313fty.jar;md5;4d4928e4505e301355aedfa1e43e9d71",
 // "spider":"https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;e911ef9b3f3c5101a90cdfd022f566f0", 
-"spider":"https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;c780fa00cbcc2f49f4e446f225a155e7",	
+//"spider":"https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;c780fa00cbcc2f49f4e446f225a155e7",	
+"spider":"https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1704615937579/fan.txt;md5;5aee1ff968a3dc5cbbf225399e9441e9",	
 "lives": [{
 		    "name": "live",
 		    "type": 0,
@@ -46,7 +47,7 @@
 
 //{"key":"Wobg","name":"阿里|玩偶表哥","type":3,"api":"csp_Wobg","searchable":1,"quickSearch":1,"filterable":1,"jar": "https://ghproxy.com/raw.githubusercontent.com/yydfys/yydf/main/阿里/jar/pg.jar","ext":"https://ghproxy.com/raw.githubusercontent.com/lsyysa/lsy/main/lj/open_token.json$$$http://wobge.run.goorm.io"},
 {"key":"玩偶表哥弹幕","name":"玩偶表哥┃4K","type":3,"api":"csp_Wobg","quickSearch":1, "changeable":1, "filterable":1, "ext": {"token": "./json/t.txt","cookie": "https://gitee.com/ajin0913/xiaobai/raw/master/lib/cookie.txt","danmu" : true},"jar":"https://git.xiaouu.link/okcaptain/okjar/main/ok.png;md5;6D75114325297FF77660F718EAAA9959"},
-{"key":"csp_WoGG","name":"👽玩偶哥哥┃4K","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext": "./json/t.txt+4k|auto|fhd$$$https://api.wogg.xyz/$$$弹"},
+{"key":"csp_WoGG","name":"👽玩偶哥哥┃4K","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext": "./json/t.txt+4k|auto|fhd$$$https://wogg.xyz/$$$弹"},
 {"key":"影视车","name":"影视车┃4K","type":3,"api":"csp_Wogg","quickSearch":1, "changeable":1, "filterable":1, "timeout":30, "ext":"https://agit.ai/CT/TTT/raw/branch/master/jar/tokenm.json$$$https://www.weixine.net/$$$null$$$1","jar":"https://gitee.com/software-talent-live-source/jar/raw/master/pg.jar;md5;040BA7DC4BE09B36D4F8BACF5D100CD2"},
 //{"key":"FanYY","name":"💦剥饭","type":3,"api":"csp_FanYY","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext": "./json/token.txt"},
 {"key":"七夜","name":"😾七夜┃4K","type":3,"api":"csp_Dovx","searchable":1,"quickSearch":1,"changeable":0,"ext":"./json/t.txt+4k|auto|fhd"},
@@ -94,10 +95,11 @@
 //{"key":"py_douyin","name":"直播|抖音[py]","type":3,"api":"py_douyin","style":{ "type":"rect", "ratio":1.33 },"ext":"./PY/douyin.py"},	//https://qu.ax/YspE.py
 {"key":"drpy_js_JustLive","name":"直播|JustLive[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/JustLive.js","style":{"type": "rect","ratio": 1.755}},
 {"key":"快手直播","name":"快手直播","type":3,"api":"csp_KsLive","searchable":0,"quickSearch":0,"filterable":1,"changeable":0,"style":{"type":"rect","ratio":1.433},"jar":"https://git.xiaouu.link/okcaptain/okjar/main/ok.png;md5;6D75114325297FF77660F718EAAA9959"},
-{"key":"抖音直播php","name":"抖音直播php","type":1,"api":"http://uuuu1234.ccccocccc.cc/dyzb.php","searchable":1,"quickSearch":0,"filterable":0,"style":{"type":"rect","ratio":1.433}},
-{"key":"快手直播php","name":"快手直播php","type":1,"api":"https://2d7a0ff6-26e3-4bb3-bda5-5a90e708fb4c-00-2uwlkeeest5k6.sisko.replit.dev/kszb.php","searchable":1,"quickSearch":0,"filterable":0,"style":{"type":"rect","ratio":1.433}},
+//{"key":"抖音直播php","name":"抖音直播php","type":1,"api":"http://uuuu1234.ccccocccc.cc/dyzb.php","searchable":1,"quickSearch":0,"filterable":0,"style":{"type":"rect","ratio":1.433}},
+//{"key":"快手直播php","name":"快手直播php","type":1,"api":"https://2d7a0ff6-26e3-4bb3-bda5-5a90e708fb4c-00-2uwlkeeest5k6.sisko.replit.dev/kszb.php","searchable":1,"quickSearch":0,"filterable":0,"style":{"type":"rect","ratio":1.433}},
 {"key":"JustLive","name":"聚合直播|JustLive","type":3,"api":"csp_JustLive","searchable":1,"changeable":0,"style":{"type":"rect","ratio":1.433},"jar":"https://git.xiaouu.link/okcaptain/okjar/main/ok.png;md5;6D75114325297FF77660F718EAAA9959"},
-{"key":"数据库php","name":"数据库php","type":4,"api":"https://dy--uuu123.repl.co/AV数据库.php","PlayUrl": "","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"style":{"type":"rect","ratio":1.433}},
+{"key":"88js","name":"⚽88┃看球","type":3,"api":"https://agit.ai/fantaiying/fty/raw/branch/master/ext/drpy2.min.js","ext":"https://agit.ai/fantaiying/fty/raw/branch/master/ext/88看球.js","style":{"type":"list"},"searchable":0,"quickSearch":0,"changeable":0},
+//{"key":"数据库php","name":"数据库php","type":4,"api":"https://dy--uuu123.repl.co/AV数据库.php","PlayUrl": "","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"style":{"type":"rect","ratio":1.433}},
 
 
 	
@@ -151,7 +153,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1,
-            "ext": "https://www.czzy33.com"
+            "ext": "https://www.czzy66.com"
         },
 {
             "key": "毛驴",
@@ -243,8 +245,8 @@
 //{"key":"csp_AppMr","name":"👻明明┃App","type":3,"api":"csp_AppMr","m3u8ads":"hd.youyhn.com","searchable":1,"quickSearch":1,"filterable":1},    
 //{"key":"csp_apple","name":"🍎苹果┃App","type":3,"api":"csp_LiteApple","playerType":1,"m3u8ads":"hd.youyhn.com","searchable":1,"quickSearch":1,"filterable":1},    
 //{"key":"csp_fantuan","name":"🍙饭团┃直连","type":3,"api":"csp_Fantuan","m3u8ads":"hd.youyhn.com","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.fantuanhd.com"},    
-{"key":"csp_Vofl","name":"🎈Voflix┃直连","type":3,"api":"csp_Voflix","m3u8ads":"hd.youyhn.com","searchable":1,"quickSearch":1,"filterable":1},    
-{"key":"csp_Xinsj","name":"🐼新视觉┃直连","type":3,"api":"csp_Xinsj","m3u8ads":"hd.youyhn.com","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.6080yy3.com"},    
+{"key":"csp_Vofl","name":"🎈Voflix┃直连","type":3,"api":"csp_Voflix","searchable":1,"quickSearch":1,"filterable":1},    
+{"key":"csp_Xinsj","name":"🐼新视觉┃直连","type":3,"api":"csp_Xinsj","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.hdmyy.com/"},    
 //{"key":"csp_Czsapp","name":"📔厂长┃直连","type":3,"api":"csp_Czsapp","m3u8ads":"hd.youyhn.com","playerType":2,"searchable":1,"quickSearch":1,"filterable":1},    
 //{"key":"csp_DiDuan","name":"⏮低端┃直连","type":3,"api":"csp_Ddrk","m3u8ads":"hd.youyhn.com","searchable":1,"quickSearch":1,"filterable":0},    
 //{"key":"csp_Cokemv","name":"📕可乐┃直连","type":3,"api":"csp_Cokemv","m3u8ads":"hd.youyhn.com","playerType":2,"searchable":1,"quickSearch":1,"filterable":1},    
