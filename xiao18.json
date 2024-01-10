@@ -7,6 +7,8 @@
 {"key":"PikPakShare2","name":"PP┃分享","type":3,"api":"csp_PikPakShare","searchable":1,"quickSearch":1, "changeable":0,"filterable":0,"ext":"http://127.0.0.1:9978/file/tvbox/tokenm.json$$$http://127.0.0.1:9978/file/tvbox/pikpakclass.json","timeout":60,"style":{"type": "rect","ratio": 1.166}},
 {"key":"PS分享","name":"PS┃分享","type":3,"api":"csp_PikPakShare","searchable":1,"quickSearch":1, "changeable":0,"filterable":0,"ext":"http://127.0.0.1:9978/file/tvbox/tokenm.json$$$./PS/ceshi.json$$$./PS/ceshi.json.raw","timeout":60,"style":{"type": "rect","ratio": 1.166}},
 {"key":"测试专用","name":"测试专用","type":3,"api":"csp_PikPakShare","searchable":1,"quickSearch":1, "changeable":0,"filterable":0,"ext":"http://127.0.0.1:9978/file/tvbox/tokenm.json$$$http://127.0.0.1:9978/file/tvbox/pikpakclass.json","jar":"http://127.0.0.1:9978/file/tvbox/pg/pg.jar;md5;71a1f9948cc56ccea4bf10ded0c777ac","timeout":60,"style":{"type": "rect","ratio": 1.166}},
+{"key":"国产直播","name":"国产直播","type":1,"api":"http://api.hclyz.com:81/mf/json.txt","searchable":1,"quickSearch":1, "changeable":0,"filterable":0,"timeout":60,"style":{"type": "rect","ratio": 1.166}},
+
 {"key":"push_agent","name":"影视┃推送","type":3,"api":"csp_Push","searchable":0,"quickSearch":0,"changeable":0,"ext":"https://gitee.com/ajin0913/jin/raw/master/lib/PG%E6%8E%A8%E9%80%81.json", "timeout":60}
 ],
 
