@@ -1,0 +1,19 @@
+var rule = {
+    title:'xvideos',
+    host:'https://www.xvideos.com',
+    url:'/lang/fyclass/fypage',
+    headers:{
+        'User-Agent':'MOBILE_UA'
+    },
+    timeout:5000,
+    class_name:'日本',//静态分类名称拼接
+    class_url:'japanese',//静态分类标识拼接
+    limit:5,
+    play_parse:true,
+    lazy:'',
+    一级:'.mozaique&&.thumb-block;a&&title&&Text;img&&data-src;.duration&&Text;a&&href',
+    二级:'*',
+		searchable:0,//是否启用全局搜索,
+    quickSearch:0,//是否启用快速搜索,
+    filterable:0,//是否启用分类筛选,
+}
