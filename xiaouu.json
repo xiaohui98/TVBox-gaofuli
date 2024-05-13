@@ -48,7 +48,7 @@
 
 //{"key":"Wobg","name":"阿里|玩偶表哥","type":3,"api":"csp_Wobg","searchable":1,"quickSearch":1,"filterable":1,"jar": "https://ghproxy.com/raw.githubusercontent.com/yydfys/yydf/main/阿里/jar/pg.jar","ext":"https://ghproxy.com/raw.githubusercontent.com/lsyysa/lsy/main/lj/open_token.json$$$http://wobge.run.goorm.io"},
 //{"key":"玩偶表哥弹幕","name":"玩偶表哥┃4K","type":3,"api":"csp_Wobg","quickSearch":1, "changeable":1, "filterable":1, "ext": {"token": "./json/t.txt","cookie": "https://gitee.com/ajin0913/xiaobai/raw/master/lib/cookie.txt","danmu" : true},"jar":"https://git.xiaouu.link/okcaptain/okjar/main/ok.png;md5;6D75114325297FF77660F718EAAA9959"},
-{"key":"csp_WoGG","name":"👽玩偶哥哥┃4K","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext": "./json/t.txt+4k|auto|fhd$$$https://wogg.xyz/$$$弹"},
+{"key":"csp_WoGG","name":"👽玩偶哥哥┃4K","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext": "./json/t.txt---4k|auto|fhd$$$https://wogg.xyz/$$$弹"},
 //{"key":"影视车","name":"影视车┃4K","type":3,"api":"csp_Wogg","quickSearch":1, "changeable":1, "filterable":1, "timeout":30, "ext":"https://agit.ai/CT/TTT/raw/branch/master/jar/tokenm.json$$$https://www.weixine.net/$$$null$$$1","jar":"https://gitee.com/software-talent-live-source/jar/raw/master/pg.jar;md5;040BA7DC4BE09B36D4F8BACF5D100CD2"},
 //{"key":"FanYY","name":"💦剥饭","type":3,"api":"csp_FanYY","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext": "./json/token.txt"},
 {"key":"七夜","name":"😾七夜┃4K","type":3,"api":"csp_Dovx","searchable":1,"quickSearch":1,"changeable":0,"ext":"./json/t.txt+4k|auto|fhd"},
